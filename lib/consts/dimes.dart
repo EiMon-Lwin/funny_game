@@ -2,6 +2,7 @@
 import 'package:flutter/cupertino.dart';
 
 const double kSP20x=20;
+const double kSP21x=21;
 const double kSP50x=50;
 const double kSP70x=70;
 

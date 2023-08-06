@@ -77,7 +77,7 @@ class _HomePageState extends State<HomePage> with TickerProviderStateMixin {
             child: const Icon(Icons.remove),
           ),
           const SizedBox(
-            width: kSP20x,
+            width: kSP21x,
           ),
           FloatingActionButton(
             onPressed: () {
